@@ -11,6 +11,7 @@
 git clone -> intellij -> maven clean and install(build) -> MemberApiApplication 실행(내장 톰캣 구동)
 
 # Test
+```
 1. 회원가입 Rest API
 POST(JSON) http://localhost/members
 
@@ -36,3 +37,4 @@ CONNECT 후 MEMBER 테이블 확인 가능
 
 4. Junit5 Test Case 실행
 test 패키지에 있는 킅래스들을 실행하면 단정문을 통해 결과를 검증합니다.
+```
