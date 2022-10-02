@@ -5,6 +5,7 @@
 - h2-embed-database mysql mode
 - maven
 - junit5
+- server port : 8080
 
 # 실행방법
 git clone -> intellij -> maven clean and install(build) -> MemberApiApplication 실행(내장 톰캣 구동)
